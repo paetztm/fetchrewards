@@ -58,6 +58,7 @@ dependencies {
     // networking
     implementation(libs.moshi)
     implementation(libs.moshi.adapters)
+    ksp(libs.moshi.kotlin.codegen)
     implementation(libs.okhttp)
     implementation(libs.logging.interceptor)
     implementation(libs.retrofit)
