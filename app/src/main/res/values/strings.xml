@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Fetch Rewards</string>
+    <string name="app_name">Fetch</string>
+    <string name="server_error">Check your connection &amp; try again</string>
+    <string name="retry">Retry</string>
+    <string name="try_again">Try again</string>
 </resources>
